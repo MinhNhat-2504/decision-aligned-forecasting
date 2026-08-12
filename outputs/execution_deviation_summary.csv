@@ -1,0 +1,2 @@
+n_routes,n_drivers,off_position_mean,off_position_lo,off_position_hi,kendall_tau_mean,exact_plan_followed,dist_ratio_mean,dist_ratio_lo,dist_ratio_hi,abs_dist_dev_mean,abs_dist_dev_lo,abs_dist_dev_hi,policy_distance_spread_pct,policy_coverage_spread_pp,noise_to_signal_ratio
+19647,400,0.4407828030009317,0.43636410348820265,0.4449193179176375,0.7406582606517443,0.233114470402606,0.9987659624792158,0.9960327831975645,1.001443256911806,0.08563792535949971,0.08326102352824481,0.08796707495307153,5.577191394882522,0.9830515687595494,1.5355027162610688

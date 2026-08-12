@@ -1,0 +1,61 @@
+# ---------------------------------------------------------------------------
+# BAN THAO BAI BAO -- chua cong bo, KHONG dua len repo
+# ---------------------------------------------------------------------------
+PAPER_*.md
+PAPER_*.docx
+RELATED_WORK.md
+RESULTS.md
+REFERENCES_TODO.md
+paper*.tex
+paper*.pdf
+paper*.aux
+paper*.log
+paper*.out
+paper*.docx
+paper_preview.png
+references.bib
+IJAA_submission.zip
+SUBMISSION_IJAA/
+template_ijaa/
+
+# ---------------------------------------------------------------------------
+# DU LIEU -- ~3.9 GB, va deu la du lieu cua ben thu ba co giay phep rieng.
+# Khong phat tan lai. Dung cac script src/fetch_*.py de tai ve.
+# ---------------------------------------------------------------------------
+data/
+
+# ---------------------------------------------------------------------------
+# KET QUA NANG -- du doan da luu dem, sinh lai duoc tu code
+# ---------------------------------------------------------------------------
+*.npz
+*.pkl
+*.pkl.xz
+*.pt
+*.pth
+*.ckpt
+
+# Nhat ky chay -- on va khong tai lap duoc
+outputs/*.log
+outputs/*.err
+outputs_green/*.log
+outputs_green/*.err
+
+# ---------------------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# ---------------------------------------------------------------------------
+# He dieu hanh / trinh soan thao
+# ---------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

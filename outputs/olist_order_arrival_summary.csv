@@ -1,0 +1,4 @@
+model,n_seeds,cost,cost_ci_low,cost_ci_high,mae,mae_ci_low,mae_ci_high,params,n_states,n_fulfilled_orders,date_start,date_end,test_start,test_end,historical_q90_vs_median_saving_pct,historical_q90_vs_median_ci_low,historical_q90_vs_median_ci_high,gwnq_vs_historical_q90_saving_pct,unmet_pct,over_pct,fill_rate,seed,epochs,cqr_offset
+GraphWaveNet-Q (Olist retrained),3.0,0.5453460613886515,0.5308543401527246,0.5598377826245784,2.1912101904551187,2.1419093918957857,2.2405109890144517,36159.0,27.0,96211.0,2017-01-01,2018-08-29,2018-03-01,2018-08-29,53.222163431489655,50.7462537424702,56.22808268483149,69.29187460135545,,,,,,
+Historical median (Olist train),,3.796459197998047,,,4.379731178283691,,,0.0,,,,,,,,,,,52.6813759289039,2.2791695395693896,47.3186240710961,-1.0,0.0,0.0
+Historical q0.9 (Olist train),,1.7759015059015064,,,3.120838420838421,,,0.0,,,,,,,,,,,22.96151587119123,16.20138410071717,77.03848412880878,-1.0,0.0,0.0

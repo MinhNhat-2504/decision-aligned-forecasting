@@ -1,0 +1,3 @@
+dataset,policy,hours,zones,q90_cost,fill_rate_pct,unmet_pct
+Porto taxi trajectories (UCI),historical_median,2628,54,0.6608010598117143,81.36484347503679,18.635156524963215
+Porto taxi trajectories (UCI),historical_q90,2628,54,0.3486818591803371,93.68426996109697,6.315730038903024

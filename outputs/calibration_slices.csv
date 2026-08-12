@@ -1,0 +1,581 @@
+model,slice_type,slice_value,n,coverage
+ST-MRGAT,zone,Newark Airport,379,78.10026385224275
+ST-MRGAT,zone,Jamaica Bay,379,99.2084432717678
+ST-MRGAT,zone,Allerton/Pelham Gardens,379,87.59894459102902
+ST-MRGAT,zone,Alphabet City,379,76.78100263852242
+ST-MRGAT,zone,Arden Heights,379,92.0844327176781
+ST-MRGAT,zone,Arrochar/Fort Wadsworth,379,90.23746701846966
+ST-MRGAT,zone,Astoria,379,79.15567282321899
+ST-MRGAT,zone,Astoria Park,379,87.33509234828496
+ST-MRGAT,zone,Auburndale,379,87.86279683377309
+ST-MRGAT,zone,Bloomingdale,379,74.14248021108179
+ST-MRGAT,zone,Baisley Park,379,79.41952506596306
+ST-MRGAT,zone,Bath Beach,379,85.75197889182058
+ST-MRGAT,zone,Battery Park,379,68.86543535620054
+ST-MRGAT,zone,Battery Park City,379,73.35092348284961
+ST-MRGAT,zone,Bedford Park,379,85.4881266490765
+ST-MRGAT,zone,Boerum Hill,379,78.3641160949868
+ST-MRGAT,zone,Bay Ridge,379,77.57255936675462
+ST-MRGAT,zone,Bay Terrace/Fort Totten,379,84.69656992084433
+ST-MRGAT,zone,Bensonhurst West,379,78.10026385224275
+ST-MRGAT,zone,Bloomfield/Emerson Hill,379,86.01583113456465
+ST-MRGAT,zone,Bayside,379,79.41952506596306
+ST-MRGAT,zone,Bedford,379,76.51715039577837
+ST-MRGAT,zone,Bellerose,379,89.18205804749341
+ST-MRGAT,zone,Belmont,379,79.68337730870712
+ST-MRGAT,zone,Bensonhurst East,379,85.4881266490765
+ST-MRGAT,zone,Borough Park,379,81.00263852242745
+ST-MRGAT,zone,Breezy Point/Fort Tilden/Riis Beach,379,90.76517150395779
+ST-MRGAT,zone,Briarwood/Jamaica Hills,379,85.75197889182058
+ST-MRGAT,zone,Brooklyn Heights,379,80.21108179419525
+ST-MRGAT,zone,Brighton Beach,379,82.84960422163589
+ST-MRGAT,zone,Bronx Park,379,81.79419525065963
+ST-MRGAT,zone,Bronxdale,379,87.86279683377309
+ST-MRGAT,zone,Broad Channel,379,93.93139841688655
+ST-MRGAT,zone,Brooklyn Navy Yard,379,80.73878627968337
+ST-MRGAT,zone,Brownsville,379,82.58575197889182
+ST-MRGAT,zone,Bushwick North,379,79.41952506596306
+ST-MRGAT,zone,Bushwick South,379,75.98944591029023
+ST-MRGAT,zone,Cambria Heights,379,86.2796833773087
+ST-MRGAT,zone,Canarsie,379,76.78100263852242
+ST-MRGAT,zone,Carroll Gardens,379,81.26649076517151
+ST-MRGAT,zone,Central Harlem,379,81.26649076517151
+ST-MRGAT,zone,Chinatown,379,73.35092348284961
+ST-MRGAT,zone,City Island,379,88.12664907651715
+ST-MRGAT,zone,Central Harlem North,379,75.46174142480211
+ST-MRGAT,zone,Central Park,379,54.35356200527705
+ST-MRGAT,zone,Charleston/Tottenville,379,96.30606860158312
+ST-MRGAT,zone,Claremont/Bathgate,379,79.15567282321899
+ST-MRGAT,zone,Clinton East,379,73.35092348284961
+ST-MRGAT,zone,Clinton Hill,379,80.21108179419525
+ST-MRGAT,zone,Clinton West,379,64.64379947229551
+ST-MRGAT,zone,Co-Op City,379,85.75197889182058
+ST-MRGAT,zone,Cobble Hill,379,75.19788918205805
+ST-MRGAT,zone,College Point,379,78.3641160949868
+ST-MRGAT,zone,Columbia Street,379,80.73878627968337
+ST-MRGAT,zone,Coney Island,379,86.2796833773087
+ST-MRGAT,zone,Corona,379,79.15567282321899
+ST-MRGAT,zone,Corona,379,86.54353562005277
+ST-MRGAT,zone,Country Club,379,87.0712401055409
+ST-MRGAT,zone,Crotona Park,379,89.70976253298153
+ST-MRGAT,zone,Crotona Park East,379,82.84960422163589
+ST-MRGAT,zone,Crown Heights North,379,75.98944591029023
+ST-MRGAT,zone,Crown Heights South,379,79.41952506596306
+ST-MRGAT,zone,Cypress Hills,379,83.64116094986808
+ST-MRGAT,zone,Douglaston,379,87.33509234828496
+ST-MRGAT,zone,Downtown Brooklyn/MetroTech,379,78.3641160949868
+ST-MRGAT,zone,East Flatbush/Remsen Village,379,80.73878627968337
+ST-MRGAT,zone,DUMBO/Vinegar Hill,379,81.53034300791556
+ST-MRGAT,zone,Dyker Heights,379,83.64116094986808
+ST-MRGAT,zone,East Chelsea,379,77.83641160949868
+ST-MRGAT,zone,East Flushing,379,83.37730870712402
+ST-MRGAT,zone,East Concourse/Concourse Village,379,78.62796833773086
+ST-MRGAT,zone,East Elmhurst,379,76.2532981530343
+ST-MRGAT,zone,East Flatbush/Farragut,379,77.04485488126649
+ST-MRGAT,zone,East Village,379,74.14248021108179
+ST-MRGAT,zone,East Williamsburg,379,74.93403693931398
+ST-MRGAT,zone,East Harlem North,379,79.94722955145119
+ST-MRGAT,zone,Erasmus,379,81.26649076517151
+ST-MRGAT,zone,Far Rockaway,379,86.01583113456465
+ST-MRGAT,zone,East Harlem South,379,78.3641160949868
+ST-MRGAT,zone,East New York,379,80.73878627968337
+ST-MRGAT,zone,East New York/Pennsylvania Avenue,379,86.2796833773087
+ST-MRGAT,zone,East Tremont,379,83.11345646437994
+ST-MRGAT,zone,Eastchester,379,89.9736147757256
+ST-MRGAT,zone,Financial District North,379,73.87862796833772
+ST-MRGAT,zone,Elmhurst,379,80.73878627968337
+ST-MRGAT,zone,Elmhurst/Maspeth,379,84.69656992084433
+ST-MRGAT,zone,Eltingville/Annadale/Prince's Bay,379,91.55672823218998
+ST-MRGAT,zone,Financial District South,379,70.44854881266491
+ST-MRGAT,zone,Flatbush/Ditmas Park,379,76.51715039577837
+ST-MRGAT,zone,Flatiron,379,75.46174142480211
+ST-MRGAT,zone,Hudson Sq,379,72.82321899736148
+ST-MRGAT,zone,Flatlands,379,82.84960422163589
+ST-MRGAT,zone,Flushing,379,81.53034300791556
+ST-MRGAT,zone,Flushing Meadows-Corona Park,379,79.68337730870712
+ST-MRGAT,zone,Fordham South,379,85.75197889182058
+ST-MRGAT,zone,Forest Hills,379,80.21108179419525
+ST-MRGAT,zone,Forest Park/Highland Park,379,90.50131926121372
+ST-MRGAT,zone,Fort Greene,379,78.62796833773086
+ST-MRGAT,zone,Fresh Meadows,379,82.58575197889182
+ST-MRGAT,zone,Freshkills Park,379,99.47229551451187
+ST-MRGAT,zone,Garment District,379,68.86543535620054
+ST-MRGAT,zone,Glen Oaks,379,89.18205804749341
+ST-MRGAT,zone,Glendale,379,83.37730870712402
+ST-MRGAT,zone,Governor's Island/Ellis Island/Liberty Island,379,100.0
+ST-MRGAT,zone,Governor's Island/Ellis Island/Liberty Island,379,100.0
+ST-MRGAT,zone,Governor's Island/Ellis Island/Liberty Island,379,99.73614775725594
+ST-MRGAT,zone,Gowanus,379,80.47493403693932
+ST-MRGAT,zone,Gramercy,379,75.46174142480211
+ST-MRGAT,zone,Gravesend,379,85.75197889182058
+ST-MRGAT,zone,Great Kills,379,87.33509234828496
+ST-MRGAT,zone,Great Kills Park,379,100.0
+ST-MRGAT,zone,Green-Wood Cemetery,379,84.1688654353562
+ST-MRGAT,zone,Greenpoint,379,76.51715039577837
+ST-MRGAT,zone,Greenwich Village North,379,78.62796833773086
+ST-MRGAT,zone,Greenwich Village South,379,69.92084432717678
+ST-MRGAT,zone,Grymes Hill/Clifton,379,87.86279683377309
+ST-MRGAT,zone,Hamilton Heights,379,77.83641160949868
+ST-MRGAT,zone,Hammels/Arverne,379,87.59894459102902
+ST-MRGAT,zone,Heartland Village/Todt Hill,379,87.59894459102902
+ST-MRGAT,zone,Highbridge,379,78.62796833773086
+ST-MRGAT,zone,Highbridge Park,379,84.69656992084433
+ST-MRGAT,zone,Madison,379,77.04485488126649
+ST-MRGAT,zone,Manhattan Beach,379,82.32189973614776
+ST-MRGAT,zone,Hillcrest/Pomonok,379,81.79419525065963
+ST-MRGAT,zone,Hollis,379,82.84960422163589
+ST-MRGAT,zone,Homecrest,379,82.05804749340369
+ST-MRGAT,zone,Howard Beach,379,81.53034300791556
+ST-MRGAT,zone,Hunts Point,379,79.68337730870712
+ST-MRGAT,zone,Inwood,379,76.2532981530343
+ST-MRGAT,zone,Inwood Hill Park,379,86.80738786279683
+ST-MRGAT,zone,Jackson Heights,379,81.53034300791556
+ST-MRGAT,zone,Kew Gardens,379,82.32189973614776
+ST-MRGAT,zone,Manhattan Valley,379,75.98944591029023
+ST-MRGAT,zone,Jamaica,379,83.64116094986808
+ST-MRGAT,zone,Laurelton,379,86.54353562005277
+ST-MRGAT,zone,Jamaica Estates,379,84.43271767810026
+ST-MRGAT,zone,JFK Airport,379,74.93403693931398
+ST-MRGAT,zone,Kensington,379,78.89182058047494
+ST-MRGAT,zone,Lenox Hill East,379,75.46174142480211
+ST-MRGAT,zone,Kew Gardens Hills,379,82.84960422163589
+ST-MRGAT,zone,Kingsbridge Heights,379,82.32189973614776
+ST-MRGAT,zone,Kips Bay,379,72.55936675461741
+ST-MRGAT,zone,Lenox Hill West,379,79.94722955145119
+ST-MRGAT,zone,Lincoln Square East,379,70.18469656992085
+ST-MRGAT,zone,Manhattanville,379,70.97625329815304
+ST-MRGAT,zone,LaGuardia Airport,379,76.78100263852242
+ST-MRGAT,zone,Lincoln Square West,379,75.19788918205805
+ST-MRGAT,zone,Little Italy/NoLiTa,379,71.50395778364116
+ST-MRGAT,zone,Long Island City/Hunters Point,379,76.51715039577837
+ST-MRGAT,zone,Long Island City/Queens Plaza,379,75.72559366754618
+ST-MRGAT,zone,Longwood,379,81.26649076517151
+ST-MRGAT,zone,Lower East Side,379,72.29551451187335
+ST-MRGAT,zone,Marble Hill,379,84.43271767810026
+ST-MRGAT,zone,Marine Park/Floyd Bennett Field,379,92.34828496042216
+ST-MRGAT,zone,Marine Park/Mill Basin,379,81.53034300791556
+ST-MRGAT,zone,Mariners Harbor,379,89.70976253298153
+ST-MRGAT,zone,Melrose South,379,78.89182058047494
+ST-MRGAT,zone,Maspeth,379,79.15567282321899
+ST-MRGAT,zone,Meatpacking/West Village West,379,75.19788918205805
+ST-MRGAT,zone,Middle Village,379,75.19788918205805
+ST-MRGAT,zone,Midtown Center,379,64.90765171503958
+ST-MRGAT,zone,Midtown East,379,71.2401055408971
+ST-MRGAT,zone,Midtown North,379,76.2532981530343
+ST-MRGAT,zone,Midtown South,379,74.40633245382587
+ST-MRGAT,zone,Murray Hill,379,73.35092348284961
+ST-MRGAT,zone,Midwood,379,80.73878627968337
+ST-MRGAT,zone,Morningside Heights,379,65.4353562005277
+ST-MRGAT,zone,Morrisania/Melrose,379,78.62796833773086
+ST-MRGAT,zone,Ocean Parkway South,379,82.84960422163589
+ST-MRGAT,zone,Mott Haven/Port Morris,379,76.78100263852242
+ST-MRGAT,zone,Mount Hope,379,80.73878627968337
+ST-MRGAT,zone,Murray Hill-Queens,379,83.64116094986808
+ST-MRGAT,zone,New Dorp/Midland Beach,379,87.0712401055409
+ST-MRGAT,zone,North Corona,379,83.11345646437994
+ST-MRGAT,zone,Norwood,379,78.62796833773086
+ST-MRGAT,zone,Oakland Gardens,379,85.22427440633246
+ST-MRGAT,zone,Old Astoria,379,79.94722955145119
+ST-MRGAT,zone,Oakwood,379,93.40369393139841
+ST-MRGAT,zone,Ocean Hill,379,82.05804749340369
+ST-MRGAT,zone,Ozone Park,379,86.01583113456465
+ST-MRGAT,zone,Park Slope,379,74.67018469656992
+ST-MRGAT,zone,Parkchester,379,84.69656992084433
+ST-MRGAT,zone,Pelham Bay,379,87.0712401055409
+ST-MRGAT,zone,Pelham Bay Park,379,87.59894459102902
+ST-MRGAT,zone,Pelham Parkway,379,86.01583113456465
+ST-MRGAT,zone,Penn Station/Madison Sq West,379,71.50395778364116
+ST-MRGAT,zone,Prospect Heights,379,79.68337730870712
+ST-MRGAT,zone,Prospect Park,379,80.73878627968337
+ST-MRGAT,zone,Port Richmond,379,92.34828496042216
+ST-MRGAT,zone,Prospect-Lefferts Gardens,379,79.94722955145119
+ST-MRGAT,zone,Queens Village,379,78.89182058047494
+ST-MRGAT,zone,Queensboro Hill,379,80.73878627968337
+ST-MRGAT,zone,Queensbridge/Ravenswood,379,81.53034300791556
+ST-MRGAT,zone,Randalls Island,379,74.67018469656992
+ST-MRGAT,zone,Rego Park,379,86.54353562005277
+ST-MRGAT,zone,Red Hook,379,78.3641160949868
+ST-MRGAT,zone,Rosedale,379,82.32189973614776
+ST-MRGAT,zone,Richmond Hill,379,79.41952506596306
+ST-MRGAT,zone,Ridgewood,379,83.11345646437994
+ST-MRGAT,zone,Rikers Island,379,99.47229551451187
+ST-MRGAT,zone,Soundview/Bruckner,379,78.89182058047494
+ST-MRGAT,zone,Soundview/Castle Hill,379,84.69656992084433
+ST-MRGAT,zone,Riverdale/North Riverdale/Fieldston,379,82.32189973614776
+ST-MRGAT,zone,Rossville/Woodrow,379,91.55672823218998
+ST-MRGAT,zone,Rockaway Park,379,85.75197889182058
+ST-MRGAT,zone,Roosevelt Island,379,69.39313984168865
+ST-MRGAT,zone,Saint Albans,379,81.53034300791556
+ST-MRGAT,zone,Saint George/New Brighton,379,85.75197889182058
+ST-MRGAT,zone,Saint Michaels Cemetery/Woodside,379,84.1688654353562
+ST-MRGAT,zone,Schuylerville/Edgewater Park,379,81.79419525065963
+ST-MRGAT,zone,Seaport,379,75.72559366754618
+ST-MRGAT,zone,Sheepshead Bay,379,81.00263852242745
+ST-MRGAT,zone,SoHo,379,77.83641160949868
+ST-MRGAT,zone,South Beach/Dongan Hills,379,87.86279683377309
+ST-MRGAT,zone,South Jamaica,379,81.53034300791556
+ST-MRGAT,zone,South Ozone Park,379,78.10026385224275
+ST-MRGAT,zone,South Williamsburg,379,76.2532981530343
+ST-MRGAT,zone,Springfield Gardens North,379,82.84960422163589
+ST-MRGAT,zone,Springfield Gardens South,379,82.05804749340369
+ST-MRGAT,zone,Stuyvesant Heights,379,78.3641160949868
+ST-MRGAT,zone,Spuyten Duyvil/Kingsbridge,379,76.51715039577837
+ST-MRGAT,zone,Stuy Town/Peter Cooper Village,379,75.19788918205805
+ST-MRGAT,zone,Sunnyside,379,79.94722955145119
+ST-MRGAT,zone,Stapleton,379,86.54353562005277
+ST-MRGAT,zone,Starrett City,379,90.23746701846966
+ST-MRGAT,zone,Steinway,379,76.51715039577837
+ST-MRGAT,zone,Sunset Park East,379,82.58575197889182
+ST-MRGAT,zone,Sunset Park West,379,78.89182058047494
+ST-MRGAT,zone,Sutton Place/Turtle Bay North,379,74.67018469656992
+ST-MRGAT,zone,Times Sq/Theatre District,379,69.65699208443272
+ST-MRGAT,zone,TriBeCa/Civic Center,379,78.10026385224275
+ST-MRGAT,zone,Upper West Side South,379,72.29551451187335
+ST-MRGAT,zone,Two Bridges/Seward Park,379,71.2401055408971
+ST-MRGAT,zone,UN/Turtle Bay South,379,70.44854881266491
+ST-MRGAT,zone,Union Sq,379,74.14248021108179
+ST-MRGAT,zone,University Heights/Morris Heights,379,83.11345646437994
+ST-MRGAT,zone,Upper East Side North,379,65.69920844327177
+ST-MRGAT,zone,Upper East Side South,379,73.61477572559367
+ST-MRGAT,zone,Upper West Side North,379,68.86543535620054
+ST-MRGAT,zone,Van Cortlandt Park,379,84.43271767810026
+ST-MRGAT,zone,Van Cortlandt Village,379,85.22427440633246
+ST-MRGAT,zone,Woodhaven,379,83.37730870712402
+ST-MRGAT,zone,Van Nest/Morris Park,379,80.73878627968337
+ST-MRGAT,zone,West Brighton,379,88.65435356200527
+ST-MRGAT,zone,Yorkville West,379,75.46174142480211
+ST-MRGAT,zone,Washington Heights North,379,77.83641160949868
+ST-MRGAT,zone,Washington Heights South,379,80.47493403693932
+ST-MRGAT,zone,Willets Point,379,91.02902374670184
+ST-MRGAT,zone,West Chelsea/Hudson Yards,379,64.1160949868074
+ST-MRGAT,zone,West Concourse,379,78.89182058047494
+ST-MRGAT,zone,West Farms/Bronx River,379,86.01583113456465
+ST-MRGAT,zone,West Village,379,76.51715039577837
+ST-MRGAT,zone,Windsor Terrace,379,82.84960422163589
+ST-MRGAT,zone,Westchester Village/Unionport,379,85.22427440633246
+ST-MRGAT,zone,Westerleigh,379,82.32189973614776
+ST-MRGAT,zone,Whitestone,379,81.53034300791556
+ST-MRGAT,zone,Williamsbridge/Olinville,379,83.64116094986808
+ST-MRGAT,zone,Williamsburg (North Side),379,74.14248021108179
+ST-MRGAT,zone,Williamsburg (South Side),379,80.47493403693932
+ST-MRGAT,zone,Woodlawn/Wakefield,379,83.37730870712402
+ST-MRGAT,zone,Woodside,379,78.89182058047494
+ST-MRGAT,zone,World Trade Center,379,65.69920844327177
+ST-MRGAT,zone,Yorkville East,379,68.07387862796834
+ST-MRGAT,hour,0,16,78.0893536121673
+ST-MRGAT,hour,1,16,80.537072243346
+ST-MRGAT,hour,2,16,82.0342205323194
+ST-MRGAT,hour,3,16,80.58460076045627
+ST-MRGAT,hour,4,16,82.48574144486692
+ST-MRGAT,hour,5,16,80.10931558935361
+ST-MRGAT,hour,6,16,80.79847908745246
+ST-MRGAT,hour,7,16,79.89543726235742
+ST-MRGAT,hour,8,16,79.20627376425855
+ST-MRGAT,hour,9,16,80.48954372623575
+ST-MRGAT,hour,10,16,79.72908745247148
+ST-MRGAT,hour,11,16,81.63022813688214
+ST-MRGAT,hour,12,16,81.84410646387833
+ST-MRGAT,hour,13,16,82.43821292775665
+ST-MRGAT,hour,14,16,81.44011406844106
+ST-MRGAT,hour,15,16,80.84600760456274
+ST-MRGAT,hour,16,16,79.99049429657795
+ST-MRGAT,hour,17,16,81.36882129277566
+ST-MRGAT,hour,18,16,80.13307984790875
+ST-MRGAT,hour,19,15,80.35487959442332
+ST-MRGAT,hour,20,15,81.39416983523448
+ST-MRGAT,hour,21,15,81.52091254752851
+ST-MRGAT,hour,22,15,82.83903675538656
+ST-MRGAT,hour,23,15,80.68441064638783
+ST-MRGAT,regime,low,127,80.61135894134907
+ST-MRGAT,regime,middle,126,81.23604321322952
+ST-MRGAT,regime,high,126,80.68984247691472
+GraphWaveNet-Q,zone,Newark Airport,379,80.21108179419525
+GraphWaveNet-Q,zone,Jamaica Bay,379,99.2084432717678
+GraphWaveNet-Q,zone,Allerton/Pelham Gardens,379,86.54353562005277
+GraphWaveNet-Q,zone,Alphabet City,379,76.51715039577837
+GraphWaveNet-Q,zone,Arden Heights,379,90.50131926121372
+GraphWaveNet-Q,zone,Arrochar/Fort Wadsworth,379,88.39050131926122
+GraphWaveNet-Q,zone,Astoria,379,75.46174142480211
+GraphWaveNet-Q,zone,Astoria Park,379,82.32189973614776
+GraphWaveNet-Q,zone,Auburndale,379,84.69656992084433
+GraphWaveNet-Q,zone,Bloomingdale,379,74.67018469656992
+GraphWaveNet-Q,zone,Baisley Park,379,82.58575197889182
+GraphWaveNet-Q,zone,Bath Beach,379,83.37730870712402
+GraphWaveNet-Q,zone,Battery Park,379,81.00263852242745
+GraphWaveNet-Q,zone,Battery Park City,379,69.65699208443272
+GraphWaveNet-Q,zone,Bedford Park,379,84.43271767810026
+GraphWaveNet-Q,zone,Boerum Hill,379,81.26649076517151
+GraphWaveNet-Q,zone,Bay Ridge,379,78.89182058047494
+GraphWaveNet-Q,zone,Bay Terrace/Fort Totten,379,84.1688654353562
+GraphWaveNet-Q,zone,Bensonhurst West,379,78.89182058047494
+GraphWaveNet-Q,zone,Bloomfield/Emerson Hill,379,86.2796833773087
+GraphWaveNet-Q,zone,Bayside,379,82.05804749340369
+GraphWaveNet-Q,zone,Bedford,379,77.57255936675462
+GraphWaveNet-Q,zone,Bellerose,379,84.43271767810026
+GraphWaveNet-Q,zone,Belmont,379,82.05804749340369
+GraphWaveNet-Q,zone,Bensonhurst East,379,85.22427440633246
+GraphWaveNet-Q,zone,Borough Park,379,80.47493403693932
+GraphWaveNet-Q,zone,Breezy Point/Fort Tilden/Riis Beach,379,88.65435356200527
+GraphWaveNet-Q,zone,Briarwood/Jamaica Hills,379,84.1688654353562
+GraphWaveNet-Q,zone,Brooklyn Heights,379,78.10026385224275
+GraphWaveNet-Q,zone,Brighton Beach,379,83.11345646437994
+GraphWaveNet-Q,zone,Bronx Park,379,84.43271767810026
+GraphWaveNet-Q,zone,Bronxdale,379,84.1688654353562
+GraphWaveNet-Q,zone,Broad Channel,379,92.0844327176781
+GraphWaveNet-Q,zone,Brooklyn Navy Yard,379,82.58575197889182
+GraphWaveNet-Q,zone,Brownsville,379,84.69656992084433
+GraphWaveNet-Q,zone,Bushwick North,379,82.32189973614776
+GraphWaveNet-Q,zone,Bushwick South,379,82.58575197889182
+GraphWaveNet-Q,zone,Cambria Heights,379,83.90501319261213
+GraphWaveNet-Q,zone,Canarsie,379,81.79419525065963
+GraphWaveNet-Q,zone,Carroll Gardens,379,82.05804749340369
+GraphWaveNet-Q,zone,Central Harlem,379,84.1688654353562
+GraphWaveNet-Q,zone,Chinatown,379,78.3641160949868
+GraphWaveNet-Q,zone,City Island,379,87.0712401055409
+GraphWaveNet-Q,zone,Central Harlem North,379,76.78100263852242
+GraphWaveNet-Q,zone,Central Park,379,62.00527704485488
+GraphWaveNet-Q,zone,Charleston/Tottenville,379,92.0844327176781
+GraphWaveNet-Q,zone,Claremont/Bathgate,379,79.41952506596306
+GraphWaveNet-Q,zone,Clinton East,379,76.78100263852242
+GraphWaveNet-Q,zone,Clinton Hill,379,82.58575197889182
+GraphWaveNet-Q,zone,Clinton West,379,74.67018469656992
+GraphWaveNet-Q,zone,Co-Op City,379,85.22427440633246
+GraphWaveNet-Q,zone,Cobble Hill,379,77.04485488126649
+GraphWaveNet-Q,zone,College Point,379,80.47493403693932
+GraphWaveNet-Q,zone,Columbia Street,379,81.53034300791556
+GraphWaveNet-Q,zone,Coney Island,379,85.75197889182058
+GraphWaveNet-Q,zone,Corona,379,77.83641160949868
+GraphWaveNet-Q,zone,Corona,379,81.26649076517151
+GraphWaveNet-Q,zone,Country Club,379,86.01583113456465
+GraphWaveNet-Q,zone,Crotona Park,379,87.33509234828496
+GraphWaveNet-Q,zone,Crotona Park East,379,80.21108179419525
+GraphWaveNet-Q,zone,Crown Heights North,379,78.62796833773086
+GraphWaveNet-Q,zone,Crown Heights South,379,78.62796833773086
+GraphWaveNet-Q,zone,Cypress Hills,379,81.00263852242745
+GraphWaveNet-Q,zone,Douglaston,379,81.79419525065963
+GraphWaveNet-Q,zone,Downtown Brooklyn/MetroTech,379,80.47493403693932
+GraphWaveNet-Q,zone,East Flatbush/Remsen Village,379,83.37730870712402
+GraphWaveNet-Q,zone,DUMBO/Vinegar Hill,379,82.32189973614776
+GraphWaveNet-Q,zone,Dyker Heights,379,83.11345646437994
+GraphWaveNet-Q,zone,East Chelsea,379,75.19788918205805
+GraphWaveNet-Q,zone,East Flushing,379,83.37730870712402
+GraphWaveNet-Q,zone,East Concourse/Concourse Village,379,78.3641160949868
+GraphWaveNet-Q,zone,East Elmhurst,379,80.47493403693932
+GraphWaveNet-Q,zone,East Flatbush/Farragut,379,81.53034300791556
+GraphWaveNet-Q,zone,East Village,379,78.62796833773086
+GraphWaveNet-Q,zone,East Williamsburg,379,78.62796833773086
+GraphWaveNet-Q,zone,East Harlem North,379,82.05804749340369
+GraphWaveNet-Q,zone,Erasmus,379,81.26649076517151
+GraphWaveNet-Q,zone,Far Rockaway,379,83.64116094986808
+GraphWaveNet-Q,zone,East Harlem South,379,77.57255936675462
+GraphWaveNet-Q,zone,East New York,379,81.79419525065963
+GraphWaveNet-Q,zone,East New York/Pennsylvania Avenue,379,86.54353562005277
+GraphWaveNet-Q,zone,East Tremont,379,82.32189973614776
+GraphWaveNet-Q,zone,Eastchester,379,86.01583113456465
+GraphWaveNet-Q,zone,Financial District North,379,73.35092348284961
+GraphWaveNet-Q,zone,Elmhurst,379,77.57255936675462
+GraphWaveNet-Q,zone,Elmhurst/Maspeth,379,79.68337730870712
+GraphWaveNet-Q,zone,Eltingville/Annadale/Prince's Bay,379,88.12664907651715
+GraphWaveNet-Q,zone,Financial District South,379,73.08707124010554
+GraphWaveNet-Q,zone,Flatbush/Ditmas Park,379,79.15567282321899
+GraphWaveNet-Q,zone,Flatiron,379,72.82321899736148
+GraphWaveNet-Q,zone,Hudson Sq,379,76.78100263852242
+GraphWaveNet-Q,zone,Flatlands,379,83.90501319261213
+GraphWaveNet-Q,zone,Flushing,379,83.64116094986808
+GraphWaveNet-Q,zone,Flushing Meadows-Corona Park,379,83.11345646437994
+GraphWaveNet-Q,zone,Fordham South,379,83.11345646437994
+GraphWaveNet-Q,zone,Forest Hills,379,79.94722955145119
+GraphWaveNet-Q,zone,Forest Park/Highland Park,379,88.39050131926122
+GraphWaveNet-Q,zone,Fort Greene,379,82.84960422163589
+GraphWaveNet-Q,zone,Fresh Meadows,379,80.21108179419525
+GraphWaveNet-Q,zone,Freshkills Park,379,98.94459102902374
+GraphWaveNet-Q,zone,Garment District,379,75.46174142480211
+GraphWaveNet-Q,zone,Glen Oaks,379,84.43271767810026
+GraphWaveNet-Q,zone,Glendale,379,83.37730870712402
+GraphWaveNet-Q,zone,Governor's Island/Ellis Island/Liberty Island,379,100.0
+GraphWaveNet-Q,zone,Governor's Island/Ellis Island/Liberty Island,379,100.0
+GraphWaveNet-Q,zone,Governor's Island/Ellis Island/Liberty Island,379,99.73614775725594
+GraphWaveNet-Q,zone,Gowanus,379,83.90501319261213
+GraphWaveNet-Q,zone,Gramercy,379,72.29551451187335
+GraphWaveNet-Q,zone,Gravesend,379,84.96042216358839
+GraphWaveNet-Q,zone,Great Kills,379,88.91820580474933
+GraphWaveNet-Q,zone,Great Kills Park,379,100.0
+GraphWaveNet-Q,zone,Green-Wood Cemetery,379,83.90501319261213
+GraphWaveNet-Q,zone,Greenpoint,379,75.19788918205805
+GraphWaveNet-Q,zone,Greenwich Village North,379,79.94722955145119
+GraphWaveNet-Q,zone,Greenwich Village South,379,71.2401055408971
+GraphWaveNet-Q,zone,Grymes Hill/Clifton,379,84.96042216358839
+GraphWaveNet-Q,zone,Hamilton Heights,379,79.68337730870712
+GraphWaveNet-Q,zone,Hammels/Arverne,379,86.80738786279683
+GraphWaveNet-Q,zone,Heartland Village/Todt Hill,379,87.0712401055409
+GraphWaveNet-Q,zone,Highbridge,379,80.47493403693932
+GraphWaveNet-Q,zone,Highbridge Park,379,84.43271767810026
+GraphWaveNet-Q,zone,Madison,379,81.53034300791556
+GraphWaveNet-Q,zone,Manhattan Beach,379,80.47493403693932
+GraphWaveNet-Q,zone,Hillcrest/Pomonok,379,81.53034300791556
+GraphWaveNet-Q,zone,Hollis,379,82.84960422163589
+GraphWaveNet-Q,zone,Homecrest,379,84.1688654353562
+GraphWaveNet-Q,zone,Howard Beach,379,81.53034300791556
+GraphWaveNet-Q,zone,Hunts Point,379,79.41952506596306
+GraphWaveNet-Q,zone,Inwood,379,72.82321899736148
+GraphWaveNet-Q,zone,Inwood Hill Park,379,83.90501319261213
+GraphWaveNet-Q,zone,Jackson Heights,379,78.62796833773086
+GraphWaveNet-Q,zone,Kew Gardens,379,82.58575197889182
+GraphWaveNet-Q,zone,Manhattan Valley,379,72.29551451187335
+GraphWaveNet-Q,zone,Jamaica,379,83.37730870712402
+GraphWaveNet-Q,zone,Laurelton,379,84.43271767810026
+GraphWaveNet-Q,zone,Jamaica Estates,379,82.05804749340369
+GraphWaveNet-Q,zone,JFK Airport,379,70.18469656992085
+GraphWaveNet-Q,zone,Kensington,379,76.78100263852242
+GraphWaveNet-Q,zone,Lenox Hill East,379,71.76781002638522
+GraphWaveNet-Q,zone,Kew Gardens Hills,379,81.79419525065963
+GraphWaveNet-Q,zone,Kingsbridge Heights,379,80.73878627968337
+GraphWaveNet-Q,zone,Kips Bay,379,72.0316622691293
+GraphWaveNet-Q,zone,Lenox Hill West,379,76.2532981530343
+GraphWaveNet-Q,zone,Lincoln Square East,379,69.65699208443272
+GraphWaveNet-Q,zone,Manhattanville,379,75.46174142480211
+GraphWaveNet-Q,zone,LaGuardia Airport,379,86.80738786279683
+GraphWaveNet-Q,zone,Lincoln Square West,379,71.50395778364116
+GraphWaveNet-Q,zone,Little Italy/NoLiTa,379,71.76781002638522
+GraphWaveNet-Q,zone,Long Island City/Hunters Point,379,73.08707124010554
+GraphWaveNet-Q,zone,Long Island City/Queens Plaza,379,77.30870712401055
+GraphWaveNet-Q,zone,Longwood,379,80.21108179419525
+GraphWaveNet-Q,zone,Lower East Side,379,79.15567282321899
+GraphWaveNet-Q,zone,Marble Hill,379,81.53034300791556
+GraphWaveNet-Q,zone,Marine Park/Floyd Bennett Field,379,89.70976253298153
+GraphWaveNet-Q,zone,Marine Park/Mill Basin,379,83.90501319261213
+GraphWaveNet-Q,zone,Mariners Harbor,379,87.59894459102902
+GraphWaveNet-Q,zone,Melrose South,379,79.41952506596306
+GraphWaveNet-Q,zone,Maspeth,379,76.78100263852242
+GraphWaveNet-Q,zone,Meatpacking/West Village West,379,77.30870712401055
+GraphWaveNet-Q,zone,Middle Village,379,73.35092348284961
+GraphWaveNet-Q,zone,Midtown Center,379,68.60158311345647
+GraphWaveNet-Q,zone,Midtown East,379,72.55936675461741
+GraphWaveNet-Q,zone,Midtown North,379,72.55936675461741
+GraphWaveNet-Q,zone,Midtown South,379,74.67018469656992
+GraphWaveNet-Q,zone,Murray Hill,379,74.40633245382587
+GraphWaveNet-Q,zone,Midwood,379,83.90501319261213
+GraphWaveNet-Q,zone,Morningside Heights,379,68.86543535620054
+GraphWaveNet-Q,zone,Morrisania/Melrose,379,80.73878627968337
+GraphWaveNet-Q,zone,Ocean Parkway South,379,80.47493403693932
+GraphWaveNet-Q,zone,Mott Haven/Port Morris,379,79.41952506596306
+GraphWaveNet-Q,zone,Mount Hope,379,80.21108179419525
+GraphWaveNet-Q,zone,Murray Hill-Queens,379,83.11345646437994
+GraphWaveNet-Q,zone,New Dorp/Midland Beach,379,84.69656992084433
+GraphWaveNet-Q,zone,North Corona,379,83.90501319261213
+GraphWaveNet-Q,zone,Norwood,379,77.83641160949868
+GraphWaveNet-Q,zone,Oakland Gardens,379,82.32189973614776
+GraphWaveNet-Q,zone,Old Astoria,379,80.21108179419525
+GraphWaveNet-Q,zone,Oakwood,379,91.55672823218998
+GraphWaveNet-Q,zone,Ocean Hill,379,82.05804749340369
+GraphWaveNet-Q,zone,Ozone Park,379,85.22427440633246
+GraphWaveNet-Q,zone,Park Slope,379,77.30870712401055
+GraphWaveNet-Q,zone,Parkchester,379,83.37730870712402
+GraphWaveNet-Q,zone,Pelham Bay,379,87.59894459102902
+GraphWaveNet-Q,zone,Pelham Bay Park,379,83.90501319261213
+GraphWaveNet-Q,zone,Pelham Parkway,379,85.4881266490765
+GraphWaveNet-Q,zone,Penn Station/Madison Sq West,379,76.51715039577837
+GraphWaveNet-Q,zone,Prospect Heights,379,80.21108179419525
+GraphWaveNet-Q,zone,Prospect Park,379,80.73878627968337
+GraphWaveNet-Q,zone,Port Richmond,379,88.39050131926122
+GraphWaveNet-Q,zone,Prospect-Lefferts Gardens,379,78.10026385224275
+GraphWaveNet-Q,zone,Queens Village,379,81.26649076517151
+GraphWaveNet-Q,zone,Queensboro Hill,379,80.73878627968337
+GraphWaveNet-Q,zone,Queensbridge/Ravenswood,379,84.43271767810026
+GraphWaveNet-Q,zone,Randalls Island,379,77.83641160949868
+GraphWaveNet-Q,zone,Rego Park,379,84.69656992084433
+GraphWaveNet-Q,zone,Red Hook,379,84.1688654353562
+GraphWaveNet-Q,zone,Rosedale,379,84.43271767810026
+GraphWaveNet-Q,zone,Richmond Hill,379,82.84960422163589
+GraphWaveNet-Q,zone,Ridgewood,379,81.00263852242745
+GraphWaveNet-Q,zone,Rikers Island,379,97.8891820580475
+GraphWaveNet-Q,zone,Soundview/Bruckner,379,75.98944591029023
+GraphWaveNet-Q,zone,Soundview/Castle Hill,379,83.37730870712402
+GraphWaveNet-Q,zone,Riverdale/North Riverdale/Fieldston,379,76.2532981530343
+GraphWaveNet-Q,zone,Rossville/Woodrow,379,90.23746701846966
+GraphWaveNet-Q,zone,Rockaway Park,379,82.32189973614776
+GraphWaveNet-Q,zone,Roosevelt Island,379,71.50395778364116
+GraphWaveNet-Q,zone,Saint Albans,379,79.15567282321899
+GraphWaveNet-Q,zone,Saint George/New Brighton,379,83.64116094986808
+GraphWaveNet-Q,zone,Saint Michaels Cemetery/Woodside,379,85.22427440633246
+GraphWaveNet-Q,zone,Schuylerville/Edgewater Park,379,82.32189973614776
+GraphWaveNet-Q,zone,Seaport,379,77.83641160949868
+GraphWaveNet-Q,zone,Sheepshead Bay,379,81.00263852242745
+GraphWaveNet-Q,zone,SoHo,379,81.00263852242745
+GraphWaveNet-Q,zone,South Beach/Dongan Hills,379,89.44591029023746
+GraphWaveNet-Q,zone,South Jamaica,379,82.05804749340369
+GraphWaveNet-Q,zone,South Ozone Park,379,77.83641160949868
+GraphWaveNet-Q,zone,South Williamsburg,379,74.40633245382587
+GraphWaveNet-Q,zone,Springfield Gardens North,379,82.58575197889182
+GraphWaveNet-Q,zone,Springfield Gardens South,379,81.53034300791556
+GraphWaveNet-Q,zone,Stuyvesant Heights,379,79.41952506596306
+GraphWaveNet-Q,zone,Spuyten Duyvil/Kingsbridge,379,77.04485488126649
+GraphWaveNet-Q,zone,Stuy Town/Peter Cooper Village,379,76.78100263852242
+GraphWaveNet-Q,zone,Sunnyside,379,75.98944591029023
+GraphWaveNet-Q,zone,Stapleton,379,83.37730870712402
+GraphWaveNet-Q,zone,Starrett City,379,87.0712401055409
+GraphWaveNet-Q,zone,Steinway,379,74.40633245382587
+GraphWaveNet-Q,zone,Sunset Park East,379,81.79419525065963
+GraphWaveNet-Q,zone,Sunset Park West,379,77.04485488126649
+GraphWaveNet-Q,zone,Sutton Place/Turtle Bay North,379,74.40633245382587
+GraphWaveNet-Q,zone,Times Sq/Theatre District,379,74.40633245382587
+GraphWaveNet-Q,zone,TriBeCa/Civic Center,379,69.92084432717678
+GraphWaveNet-Q,zone,Upper West Side South,379,74.67018469656992
+GraphWaveNet-Q,zone,Two Bridges/Seward Park,379,74.14248021108179
+GraphWaveNet-Q,zone,UN/Turtle Bay South,379,70.71240105540898
+GraphWaveNet-Q,zone,Union Sq,379,73.08707124010554
+GraphWaveNet-Q,zone,University Heights/Morris Heights,379,82.84960422163589
+GraphWaveNet-Q,zone,Upper East Side North,379,65.17150395778364
+GraphWaveNet-Q,zone,Upper East Side South,379,69.12928759894459
+GraphWaveNet-Q,zone,Upper West Side North,379,65.96306068601582
+GraphWaveNet-Q,zone,Van Cortlandt Park,379,84.1688654353562
+GraphWaveNet-Q,zone,Van Cortlandt Village,379,83.37730870712402
+GraphWaveNet-Q,zone,Woodhaven,379,82.05804749340369
+GraphWaveNet-Q,zone,Van Nest/Morris Park,379,82.05804749340369
+GraphWaveNet-Q,zone,West Brighton,379,88.12664907651715
+GraphWaveNet-Q,zone,Yorkville West,379,76.78100263852242
+GraphWaveNet-Q,zone,Washington Heights North,379,74.67018469656992
+GraphWaveNet-Q,zone,Washington Heights South,379,78.10026385224275
+GraphWaveNet-Q,zone,Willets Point,379,87.33509234828496
+GraphWaveNet-Q,zone,West Chelsea/Hudson Yards,379,75.46174142480211
+GraphWaveNet-Q,zone,West Concourse,379,84.43271767810026
+GraphWaveNet-Q,zone,West Farms/Bronx River,379,86.2796833773087
+GraphWaveNet-Q,zone,West Village,379,76.51715039577837
+GraphWaveNet-Q,zone,Windsor Terrace,379,83.11345646437994
+GraphWaveNet-Q,zone,Westchester Village/Unionport,379,81.53034300791556
+GraphWaveNet-Q,zone,Westerleigh,379,80.73878627968337
+GraphWaveNet-Q,zone,Whitestone,379,82.58575197889182
+GraphWaveNet-Q,zone,Williamsbridge/Olinville,379,81.53034300791556
+GraphWaveNet-Q,zone,Williamsburg (North Side),379,81.00263852242745
+GraphWaveNet-Q,zone,Williamsburg (South Side),379,83.37730870712402
+GraphWaveNet-Q,zone,Woodlawn/Wakefield,379,83.64116094986808
+GraphWaveNet-Q,zone,Woodside,379,75.46174142480211
+GraphWaveNet-Q,zone,World Trade Center,379,75.46174142480211
+GraphWaveNet-Q,zone,Yorkville East,379,62.532981530343015
+GraphWaveNet-Q,hour,0,16,80.4657794676806
+GraphWaveNet-Q,hour,1,16,81.8916349809886
+GraphWaveNet-Q,hour,2,16,83.6977186311787
+GraphWaveNet-Q,hour,3,16,82.0342205323194
+GraphWaveNet-Q,hour,4,16,84.43441064638783
+GraphWaveNet-Q,hour,5,16,80.537072243346
+GraphWaveNet-Q,hour,6,16,81.84410646387833
+GraphWaveNet-Q,hour,7,16,79.94296577946768
+GraphWaveNet-Q,hour,8,16,79.75285171102662
+GraphWaveNet-Q,hour,9,16,80.63212927756655
+GraphWaveNet-Q,hour,10,16,78.99239543726236
+GraphWaveNet-Q,hour,11,16,80.6083650190114
+GraphWaveNet-Q,hour,12,16,81.1074144486692
+GraphWaveNet-Q,hour,13,16,81.72528517110266
+GraphWaveNet-Q,hour,14,16,80.70342205323195
+GraphWaveNet-Q,hour,15,16,80.03802281368822
+GraphWaveNet-Q,hour,16,16,79.77661596958175
+GraphWaveNet-Q,hour,17,16,80.10931558935361
+GraphWaveNet-Q,hour,18,16,78.8735741444867
+GraphWaveNet-Q,hour,19,15,78.35234474017744
+GraphWaveNet-Q,hour,20,15,80.12674271229405
+GraphWaveNet-Q,hour,21,15,81.21673003802282
+GraphWaveNet-Q,hour,22,15,82.0278833967047
+GraphWaveNet-Q,hour,23,15,82.0532319391635
+GraphWaveNet-Q,regime,low,127,81.82689141043682
+GraphWaveNet-Q,regime,middle,126,80.52386987748204
+GraphWaveNet-Q,regime,high,126,80.26434908564187

@@ -1,0 +1,4 @@
+contrast,estimate,ci95_low,ci95_high,block,n_blocks,draws
+actual_vs_nearest_neighbour_travel_time_reduction_pct,2.670475752092885,2.331313246018613,3.0979876798291017,calendar_day,14,5000
+actual_vs_nearest_neighbour_route_duration_reduction_pct,4.011411326776958,3.6642732831351634,4.466641130039319,calendar_day,14,5000
+actual_vs_nearest_neighbour_late_package_reduction_pct,86.72875436554132,85.03461329537942,88.27667178854105,calendar_day,14,5000

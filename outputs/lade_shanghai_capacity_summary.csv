@@ -1,0 +1,4 @@
+model,n_seeds,cost,cost_ci_low,cost_ci_high,mae,mae_ci_low,mae_ci_high,params,n_tasks,n_regions,date_start,date_end,test_start,test_end,historical_q90_vs_median_saving_pct,historical_q90_vs_median_ci_low,historical_q90_vs_median_ci_high,gwnq_vs_historical_q90_saving_pct,unmet_pct,over_pct,fill_rate,seed,epochs,cqr_offset
+GraphWaveNet-Q (LaDe Shanghai retrained),3.0,2.0323826471964517,1.9684090675761265,2.096356226816777,5.755022366841634,5.637311270125502,5.872733463557766,36659.0,1483864.0,52.0,2022-05-01,2022-10-31,2022-09-06 19:00:00,2022-10-31 23:00:00,54.32661170245754,52.64823169925553,56.21400081757273,28.163005167503265,,,,,,
+Historical median (LaDe train),,6.194326400756836,,,7.2823076248168945,,,0.0,,,,,,,,,,,73.89932170557834,4.863673966586026,26.10067829442165,-1.0,0.0,0.0
+Historical q0.9 (LaDe train),,2.8291587808418,,,7.443355587808417,,,0.0,,,,,,,,,,,28.18593524101346,52.3189004126905,71.81406475898655,-1.0,0.0,0.0

@@ -1,0 +1,4 @@
+model,seed,params,forecast_mae,cost
+GraphWaveNet-direct-q0.9,0,147087,11.598,1.6253
+GraphWaveNet-direct-q0.9,1,147087,11.463705062866211,1.619216799736023
+GraphWaveNet-direct-q0.9,2,147087,11.884546279907227,1.5900129079818726
