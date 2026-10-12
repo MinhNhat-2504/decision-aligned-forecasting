@@ -17,6 +17,10 @@ pyarrow>=24.0.0
 requests>=2.34.2
 tqdm>=4.67.3
 
+# Doc JSON lon theo luong (amazon_parcel_eval.py) va doc .xlsx (execution_deviation.py)
+ijson
+openpyxl
+
 # Xuat ban thao sang .docx (khong bat buoc cho phan thi nghiem)
 python-docx>=1.2.0
 
