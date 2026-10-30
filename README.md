@@ -4,10 +4,14 @@ Code and numerical results for the paper
 
 > **Forecast Value Is a Property of the Decision: Calibrated Quantile Demand Forecasting
 > for Urban Last-Mile Capacity and Routing**
-> Kien Pham Xuan, Nhat Trinh Ngoc Minh, Linh Nguyen Thi My
-> *International Journal of Analysis and Applications*, accepted 2026 (in press, article ID ijaa5688).
+> Kien Xuan Pham, Nhat Trinh Ngoc Minh, Linh Nguyen Thi My
+> *International Journal of Analysis and Applications*, **24** (2026), Article **366**.
+> Published on **26 October 2026**.
 
-The DOI will be added here once the article is published.
+[DOI: 10.28924/2291-8639-24-2026-366](https://doi.org/10.28924/2291-8639-24-2026-366) ·
+[Article](https://etamaths.com/ijaa/article/24-366/) ·
+[Published PDF](https://etamaths.com/ijaa/article/24-366/ijaa-24-2026-366.pdf)
+
 A Vietnamese version of this file is in [README.vi.md](README.vi.md).
 
 ## What the paper shows
@@ -209,10 +213,13 @@ before use. The Meituan data in particular requires an acknowledgement, describe
 @article{phamxuan2026forecastvalue,
   title   = {Forecast Value Is a Property of the Decision: Calibrated Quantile Demand
              Forecasting for Urban Last-Mile Capacity and Routing},
-  author  = {Pham Xuan, Kien and Trinh Ngoc Minh, Nhat and Nguyen Thi My, Linh},
+  author  = {Pham, Kien Xuan and Minh, Nhat Trinh Ngoc and My, Linh Nguyen Thi},
   journal = {International Journal of Analysis and Applications},
+  volume  = {24},
   year    = {2026},
-  note    = {In press}
+  pages   = {366},
+  doi     = {10.28924/2291-8639-24-2026-366},
+  url     = {https://etamaths.com/ijaa/article/24-366/}
 }
 ```
 

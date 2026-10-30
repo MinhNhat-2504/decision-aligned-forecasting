@@ -4,10 +4,14 @@ Mã nguồn và kết quả số của bài báo
 
 > **Forecast Value Is a Property of the Decision: Calibrated Quantile Demand Forecasting
 > for Urban Last-Mile Capacity and Routing**
-> Kien Pham Xuan, Nhat Trinh Ngoc Minh, Linh Nguyen Thi My
-> *International Journal of Analysis and Applications*, đã được chấp nhận năm 2026 (đang chờ xuất bản, mã bài ijaa5688).
+> Kien Xuan Pham, Nhat Trinh Ngoc Minh, Linh Nguyen Thi My
+> *International Journal of Analysis and Applications*, tập **24** (2026), bài số **366**.
+> Xuất bản ngày **26/10/2026**.
 
-DOI sẽ được bổ sung khi bài được xuất bản.
+[DOI: 10.28924/2291-8639-24-2026-366](https://doi.org/10.28924/2291-8639-24-2026-366) ·
+[Trang bài báo](https://etamaths.com/ijaa/article/24-366/) ·
+[PDF đã xuất bản](https://etamaths.com/ijaa/article/24-366/ijaa-24-2026-366.pdf)
+
 Bản tiếng Anh của file này là [README.md](README.md).
 
 ## Bài này nói gì
@@ -207,10 +211,13 @@ trước khi dùng. Riêng dữ liệu Meituan yêu cầu ghi lời cảm ơn, m
 @article{phamxuan2026forecastvalue,
   title   = {Forecast Value Is a Property of the Decision: Calibrated Quantile Demand
              Forecasting for Urban Last-Mile Capacity and Routing},
-  author  = {Pham Xuan, Kien and Trinh Ngoc Minh, Nhat and Nguyen Thi My, Linh},
+  author  = {Pham, Kien Xuan and Minh, Nhat Trinh Ngoc and My, Linh Nguyen Thi},
   journal = {International Journal of Analysis and Applications},
+  volume  = {24},
   year    = {2026},
-  note    = {In press}
+  pages   = {366},
+  doi     = {10.28924/2291-8639-24-2026-366},
+  url     = {https://etamaths.com/ijaa/article/24-366/}
 }
 ```
 
